@@ -1,9 +1,0 @@
-All of the textures in this folder were downloaded under the Common creative license or GPL like stated on the following site:
-http://www.outworldz.com/cgi/free-seamless-textures.plx
-
-Credits go to the wonderfull artists on this site.
-
-Bumpmap and heightmap textures were added by Koppensteiner Manfred, nickname: "nothing"
-This additional files fall under the same licenses as their original files.
-
-Pls do include this text file if you use any of this in your own projects.
