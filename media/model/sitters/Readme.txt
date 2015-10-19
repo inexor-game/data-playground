@@ -28,3 +28,4 @@
 //   DESCRIPTION: 3D model's' and textures
 //
 //-----------------------------------------------------------------------------
+// additional notes by Nothing: I included licenses only in folders that had extra licenses in their zip files as I downloaded it from Sitters website. License for any models that have no extra in their folders are as in folder media/model/sitters/

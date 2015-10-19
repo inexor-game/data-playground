@@ -1,0 +1,14 @@
+# Blender MTL File: 'chest_lp.blend'
+# Material Count: 1
+
+newmtl chest
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.959184 0.959184 0.959184
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd skin.png
+map_Bump C:\\Users\\koppiman\\AppData\\Local\\Temp\\$$_15CD\\normal.png
+map_Ks C:\\Users\\koppiman\\AppData\\Local\\Temp\\$$_15CD\\specular.png

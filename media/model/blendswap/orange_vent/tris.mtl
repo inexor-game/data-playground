@@ -1,0 +1,15 @@
+# Blender MTL File: 'Orangesplosion_Soda_Machine.blend'
+# Material Count: 1
+
+newmtl OrangesplosionMachine_Shader
+Ns 484.313725
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.718182 0.718182 0.718182
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\koppiman\AppData\Local\Temp\$$_59F\Orangesplosion_Occlusion.png
+map_Bump C:\\Users\\koppiman\\AppData\\Local\\Temp\\$$_59F\\Orangesplosion_Normal.png
+map_Ke C:\\Users\\koppiman\\AppData\\Local\\Temp\\$$_59F\\Orangesplosion_Glow.png
+map_Ks C:\\Users\\koppiman\\AppData\\Local\\Temp\\$$_59F\\Orangesplosion_Specular.png

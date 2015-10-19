@@ -1,0 +1,13 @@
+# Blender MTL File: 'chain05.blend'
+# Material Count: 1
+
+newmtl chain
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\Users\koppiman\AppData\Local\Temp\$$_9CBC\chain05D.png
+map_Bump C:\\Users\\koppiman\\AppData\\Local\\Temp\\$$_9CBC\\chain05N.png

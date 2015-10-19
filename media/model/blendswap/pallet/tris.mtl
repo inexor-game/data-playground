@@ -1,0 +1,15 @@
+# Blender MTL File: 'Quandtum_Pallet_v1_0.blend'
+# Material Count: 1
+
+newmtl Pallet
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd skin.jpg
+map_Bump C:\\Users\\koppiman\\AppData\\Local\\Temp\\$$_42B7\\Pallet-Normal.jpg
+map_Ks C:\\Users\\koppiman\\AppData\\Local\\Temp\\$$_42B7\\Pallet-Specular.jpg
+map_Ns C:\\Users\\koppiman\\AppData\\Local\\Temp\\$$_42B7\\Pallet-Specular.jpg

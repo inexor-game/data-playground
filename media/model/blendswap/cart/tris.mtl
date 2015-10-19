@@ -1,0 +1,25 @@
+# Blender MTL File: 'BSwap_WoodenCart_01.blend'
+# Material Count: 2
+
+newmtl Cart01Mat
+Ns 27.450980
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd skin.png
+map_Bump C:\\Users\\koppiman\\AppData\\Local\\Temp\\$$_8C8C\\Objects_Cart_01_Normal_01b.png
+map_Ks skin.png
+
+newmtl Cart01Mat_LoD
+Ns 27.450980
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd skin.png
+map_Ks skin.png
