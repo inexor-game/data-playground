@@ -1,8 +1,3 @@
-All of the textures have been downloaded from: http://www.outworldz.com/cgi/free-seamless-textures.plx?c=Icculus
-They are licensed under the GNU General Public License
+The content in this folder has been licensed under
+GNU General Public License
 http://www.gnu.org/licenses/gpl-3.0.en.html
-
-I only altered them in size to make them fit for Inexor
-
-My credits go to the wonderfull author of this textures, who´s name I dont know.
-Thank you							"nothing"
