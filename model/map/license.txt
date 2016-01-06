@@ -1,0 +1,2 @@
+Models have been downloaded from: http://www.md2.sitters-electronics.nl/models.html
+All models as on site stated are released under GNU and CC_attribution/by
