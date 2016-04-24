@@ -1,0 +1,29 @@
+# Blender MTL File: 'low-poly tree.blend'
+# Material Count: 2
+
+newmtl tree_bark
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\
+map_Bump C:\\Users\\Manfred\\AppData\\Local\\Temp\\$$_AD12\\Tree Bark Nor2.png
+map_Ke C:\\
+
+newmtl tree_leaves
+Ns 168.627451
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.220697 0.300699 0.171402
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\
+map_Bump C:\\Users\\Manfred\\AppData\\Local\\Temp\\$$_AD12\\Tree Leaves Nor.png
+map_Ke C:\\
+map_d C:\\Users\\Manfred\\AppData\\Local\\Temp\\$$_AD12\\Tree Leaves.png

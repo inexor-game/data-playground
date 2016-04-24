@@ -3,12 +3,13 @@
 
 newmtl chest
 Ns 96.078431
-Ka 0.000000 0.000000 0.000000
+Ka 1.000000 1.000000 1.000000
 Kd 0.800000 0.800000 0.800000
 Ks 0.959184 0.959184 0.959184
+Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
 map_Kd skin.png
-map_Bump C:\\Users\\koppiman\\AppData\\Local\\Temp\\$$_15CD\\normal.png
-map_Ks C:\\Users\\koppiman\\AppData\\Local\\Temp\\$$_15CD\\specular.png
+map_Bump C:\\Users\\Manfred\\AppData\\Local\\Temp\\$$_F386\\normal.png
+map_Ks C:\\Users\\Manfred\\AppData\\Local\\Temp\\$$_F386\\specular.png
